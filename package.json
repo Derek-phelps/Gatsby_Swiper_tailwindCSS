@@ -21,6 +21,14 @@
     "gatsby-source-filesystem": "^3.14.0",
     "gatsby-transformer-sharp": "^3.14.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.3.1",
+    "swiper": "^7.0.8"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.7",
+    "gatsby-plugin-postcss": "^4.14.0",
+    "postcss": "^8.3.9",
+    "tailwindcss": "^2.2.17"
   }
 }

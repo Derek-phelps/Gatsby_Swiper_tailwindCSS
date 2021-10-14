@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.custom-pagination {
+    position: absolute;
+    right: 15px;
+    bottom: 10px;
+    color: rgba(156, 163, 175, 1);
+}
